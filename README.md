@@ -1,3 +1,1 @@
-# libmw-ltc
-
-Litecoin implementation of libmw
+Moved to https://github.com/ltc-mweb/libmw
